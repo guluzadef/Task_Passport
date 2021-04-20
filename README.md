@@ -3,7 +3,7 @@
   <h1>Passport Task</h1>
 </div>
 
-- **Clone**: `git clone https://gitlab.com/bakuelectronics/saleor-app.git`
+- **Clone**: `git clone https://github.com/guluzadef/Task_Passport`
 - **After Clone**: `cd task_travel`
 
 - **Create and Activate virtualenv**: `python3 -m venv venv`  **after** `source /venv/bin/activate`
